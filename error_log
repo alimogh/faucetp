@@ -1,0 +1,6 @@
+[07-Dec-2017 10:30:48 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/xpcoin/faucet/admin.php on line 390
+[14-Dec-2017 09:09:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/xpcoin/faucet/index.php on line 378
+[14-Dec-2017 09:09:24 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/xpcoin/faucet/index.php on line 378
+[14-Dec-2017 09:09:26 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/xpcoin/faucet/index.php on line 378
+[14-Dec-2017 10:32:58 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/xpcoin/faucet/admin.php on line 390
+[14-Dec-2017 10:34:36 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/xpcoin/faucet/admin.php on line 390
